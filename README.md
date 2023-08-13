@@ -1,5 +1,10 @@
-## Oii eu sou Jedson Jhones👋
+## 👋 Olá, seja bem-vindo(a) ao meu repositório digital!
+ Este é o espaço virtual onde guardo e compartilho minha jornada através do mundo da programação. Meu nome é Jedson Jhones e este GitHub é o lar de meus códigos, trabalhos acadêmicos e projetos de cursos. É onde a criatividade se converte em linhas de código e ideias se transformam em soluções tangíveis.
 
+  Aqui, cada linha de código representa um passo em direção ao meu crescimento profissional e à realização de projetos significativos. Vamos aprender, construir e crescer juntos!
+
+  Happy coding! 😄🚀
+##
 <div align="center">
   <a href="https://github.com/jedsonjhones">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jedsonjhones&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
