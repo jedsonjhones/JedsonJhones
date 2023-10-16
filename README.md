@@ -1,4 +1,14 @@
-## 👋 Olá, seja bem-vindo(a) ao meu repositório digital!
+<h1 align="center">
+  Hello, welcome to my digital repository! 👋
+</h1>
+
+<div align="center">
+<img height="320em" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/81bb4b165684019.640b6038d133e.gif"/>
+  
+
+  
+</div>
+
  Este é o espaço virtual onde guardo e compartilho minha jornada através do mundo da programação. Meu nome é Jedson Jhones e este GitHub é o lar de meus códigos, trabalhos acadêmicos e projetos de cursos. É onde a criatividade se converte em linhas de código e ideias se transformam em soluções tangíveis.
 
   Aqui, cada linha de código representa um passo em direção ao meu crescimento profissional e à realização de projetos significativos. Vamos aprender, construir e crescer juntos!
